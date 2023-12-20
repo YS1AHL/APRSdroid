@@ -7,3 +7,6 @@ You can use APRSdroid to connect to the APRS network via different means:
 APRS-IS via Internet (WiFi or mobile data connection)
 AFSK (audio connection between your radio and the smartphone)
 Bluetooth-serial connection to a TNC
+
+More Details:
+https://github.com/ge0rg/aprsdroid
